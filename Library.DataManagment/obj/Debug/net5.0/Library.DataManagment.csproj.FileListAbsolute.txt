@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Library\Library.DataManagment\bin\Debug\net5.0\Library.DataManagment.deps.json
+C:\Users\User\source\repos\Library\Library.DataManagment\bin\Debug\net5.0\Library.DataManagment.dll
+C:\Users\User\source\repos\Library\Library.DataManagment\bin\Debug\net5.0\ref\Library.DataManagment.dll
+C:\Users\User\source\repos\Library\Library.DataManagment\bin\Debug\net5.0\Library.DataManagment.pdb
+C:\Users\User\source\repos\Library\Library.DataManagment\bin\Debug\net5.0\Library.Models.dll
+C:\Users\User\source\repos\Library\Library.DataManagment\bin\Debug\net5.0\Library.Models.pdb
+C:\Users\User\source\repos\Library\Library.DataManagment\obj\Debug\net5.0\Library.DataManagment.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Library\Library.DataManagment\obj\Debug\net5.0\Library.DataManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Library\Library.DataManagment\obj\Debug\net5.0\Library.DataManagment.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Library\Library.DataManagment\obj\Debug\net5.0\Library.DataManagment.AssemblyInfo.cs
+C:\Users\User\source\repos\Library\Library.DataManagment\obj\Debug\net5.0\Library.DataManagment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Library\Library.DataManagment\obj\Debug\net5.0\Library.DataManagment.csproj.CopyComplete
+C:\Users\User\source\repos\Library\Library.DataManagment\obj\Debug\net5.0\Library.DataManagment.dll
+C:\Users\User\source\repos\Library\Library.DataManagment\obj\Debug\net5.0\ref\Library.DataManagment.dll
+C:\Users\User\source\repos\Library\Library.DataManagment\obj\Debug\net5.0\Library.DataManagment.pdb
